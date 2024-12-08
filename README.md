@@ -1,17 +1,6 @@
 # Dylan Patel's ePortfolio
 
-Welcome to my ePortfolio! I’m Dylan Patel, a junior studying Computer Science at the University of Maryland with a minor in Computational Finance. This repository aims to showcase my academic, extracurricular, and professional experiences, highlighting my skills in product management, machine learning, and software development.
-
-## How to Navigate
-Below are links to my featured projects, each demonstrating different skills and expertise:
-
-- **Artifact 1: Stock Recommender Engine**  
-  [View Repository](https://github.com/username/stock-recommender-engine)  
-  This project demonstrates my ability to analyze financial data and implement machine learning models to provide actionable insights.
-
-- **Artifact 2: Automated Medical Image Diagnosis**  
-  [View Repository](https://github.com/username/medical-image-diagnosis)  
-  This project showcases my skills in computer vision using OpenCV to build an automated image classification system.
+Welcome to my ePortfolio!
 
 # About Me
 
@@ -30,3 +19,15 @@ Over the years, I have honed my skills in **machine learning**, **software devel
 - **Product Management**: With a keen interest in understanding user needs and market trends, I aim to build products that truly resonate with people.
 
 This ePortfolio is a curated collection of my work, showcasing the skills and knowledge I’ve developed through various academic and professional experiences. Feel free to explore the projects below, where I dive deeper into some of my favorite challenges and solutions.
+
+## How to Navigate
+Below are links to my featured projects, each demonstrating different skills and expertise:
+
+- **Artifact 1: Stock Recommender Engine**  
+  [View Repository](https://github.com/username/stock-recommender-engine)  
+  This project demonstrates my ability to analyze financial data and implement machine learning models to provide actionable insights.
+
+- **Artifact 2: Automated Medical Image Diagnosis**  
+  [View Repository](https://github.com/username/medical-image-diagnosis)  
+  This project showcases my skills in computer vision using OpenCV to build an automated image classification system.
+
