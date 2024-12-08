@@ -23,9 +23,30 @@ This ePortfolio is a curated collection of my work, showcasing the skills and kn
 ## How to Navigate
 Below are links to my featured projects, each demonstrating different skills and expertise:
 
-- **Artifact 1: Stock Recommender Engine**  
-  [View Repository](https://github.com/username/stock-recommender-engine)  
-  This project demonstrates my ability to analyze financial data and implement machine learning models to provide actionable insights.
+## Artifact 1: Stock Recommender Engine
+
+### Project Overview
+The Stock Recommender Engine is an innovative stock analysis tool that simplifies investment decision-making. It evaluates stocks based on financial performance and public sentiment, empowering users to identify the best opportunities. By allowing users to select a sector (e.g., Technology, Energy, Healthcare) and specify their budget, the tool ranks affordable stocks using a combination of performance metrics and sentiment analysis from news articles.
+
+### Key Features
+- **Dynamic Stock Analysis**: Retrieves and evaluates stock data from multiple sectors, including Technology, Energy, and Healthcare.  
+- **Sentiment Analysis**: Analyzes public sentiment using news articles fetched via NewsAPI and TextBlob.  
+- **Performance Evaluation**: Assesses the 1-month historical performance of stocks with data from Yahoo Finance.  
+- **Weighted Scoring System**: Combines stock performance (70%) and sentiment analysis (30%) into a composite score for ranking.  
+- **Customizable Budget**: Calculates the number of shares a user can purchase within their specified budget.
+
+### How It Works
+1. **User Input**: Specify a sector and budget.  
+2. **Data Retrieval**: Fetch stock data using `yfinance` and relevant news via NewsAPI.  
+3. **Sentiment Analysis**: Evaluate sentiment polarity (positive, negative, neutral) for each stock.  
+4. **Ranking Stocks**: Rank based on a weighted score combining sentiment and performance.  
+5. **Results**: Display top stocks with key details, including company name, ticker, price per share, and affordability.
+
+### Why It Matters
+This project showcases the integration of **financial data analysis** and **natural language processing (NLP)**. It highlights my ability to work with:
+- **APIs and Data Integration**: Using `yfinance`, NewsAPI, and TextBlob.  
+- **Sentiment Analysis**: Applying NLP for real-world applications.  
+- **Data-Driven Decision Making**: Creating actionable insights for users.
 
 - **Artifact 2: Automated Medical Image Diagnosis**  
   [View Repository](https://github.com/username/medical-image-diagnosis)  
