@@ -24,14 +24,20 @@ This ePortfolio is a curated collection of my work, showcasing the skills and kn
 Below are links to my featured projects, each demonstrating different skills and expertise:
 
 - **Artifact 1: Stock Recommender Engine**
+
   [View Repository](https://github.com/dylanpatel78/Stock-Recommender-Engine) 
 
-The Stock Recommender Engine is an innovative stock analysis tool that simplifies investment decision-making. It evaluates stocks based on
-financial performance and public sentiment, empowering users to identify the best opportunities. By allowing users to select a sector (e.g., Technology, Energy, Healthcare) and specify their budget, the tool ranks affordable stocks using a combination of performance metrics and sentiment analysis from news articles.
+  The Stock Recommender Engine is an innovative stock analysis tool that simplifies investment decision-making. It evaluates stocks based on
+  financial performance and public sentiment, empowering users to identify the best opportunities. By allowing users to select a sector (e.g.,
+  Technology, Energy, Healthcare) and specify their budget, the tool ranks affordable stocks using a combination of performance metrics and
+  sentiment analysis from news articles.
 
 - **Artifact 2: Automated Medical Image Diagnosis**
+
   [View Repository](https://github.com/dylanpatel78/DermaNet-Diagnostic-System)
 
-DermaNet is a machine learning-based web application designed to assist in detecting skin conditions from dermatology images. Using a Convolutional Neural Network (CNN), the system classifies skin lesions, focusing on identifying conditions such as melanoma. The application integrates a React frontend, Flask backend, and a deep learning model for seamless real-time predictions.
+  DermaNet is a machine learning-based web application designed to assist in detecting skin conditions from dermatology images. Using a
+  Convolutional Neural Network (CNN), the system classifies skin lesions, focusing on identifying conditions such as melanoma. The application
+  integrates a React frontend, Flask backend, and a deep learning model for seamless real-time predictions.
 
 
