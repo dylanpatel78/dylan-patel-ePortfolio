@@ -1,4 +1,4 @@
-# Dylan Patel's ePortfolio
+# Dylan Patel ePortfolio
 
 Welcome to my ePortfolio!
 
