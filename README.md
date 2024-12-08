@@ -1,9 +1,18 @@
 # Dylan Patel ePortfolio
 
-Welcome to my ePortfolio!
+Welcome to my ePortfolio! This portfolio showcases my academic, extracurricular, and professional experiences, demonstrating the skills and knowledge I’ve developed through real-world projects. As a **Computer Science** major with a **Computational Finance** minor at the **University of Maryland**, I aim to combine technology, data, and innovation to solve complex challenges and deliver impactful solutions.
+
+This ePortfolio is a collection of curated work that highlights my expertise in **machine learning**, **software development**, and **product management**. It also reflects my passion for leveraging technology to improve processes, create intuitive user experiences, and address meaningful problems in various domains.
+
+Feel free to explore my projects below, and don’t hesitate to reach out for collaboration or feedback!
+
+## Introduction Video
+
+[![Watch the Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+Click the link above to watch my 1-minute introduction video on YouTube!
 
 # About Me
-
 Hello and welcome! 👋 My name is **Dylan Patel**, and I’m currently a junior at the **University of Maryland**, majoring in **Computer Science** with a minor in **Computational Finance**. My academic and professional journey is driven by a passion for leveraging technology to solve complex, real-world problems.
 
 Over the years, I have honed my skills in **machine learning**, **software development**, and **product management** through a combination of coursework, internships, and extracurricular activities. My roles as a **Student Manager at SORC** and an active member of **Product Space@UMD** have allowed me to lead initiatives, develop innovative solutions, and collaborate with diverse teams to achieve impactful results.
