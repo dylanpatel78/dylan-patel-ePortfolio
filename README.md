@@ -43,7 +43,6 @@ Below are links to my featured projects, each demonstrating different skills and
   Technology, Energy, Healthcare) and specify their budget, the tool ranks affordable stocks using a combination of performance metrics and
   sentiment analysis from news articles.
 
-  **Contextual Statement**:
   This artifact demonstrates my ability to combine data analysis and machine learning to create tools that solve real-world problems. Working on this project improved my technical expertise
   in **natural language processing** and **sentiment analysis**, as well as my ability to create user-centric solutions.
 
@@ -55,7 +54,6 @@ Below are links to my featured projects, each demonstrating different skills and
   Convolutional Neural Network (CNN), the system classifies skin lesions, focusing on identifying conditions such as melanoma. The application
   integrates a React frontend, Flask backend, and a deep learning model for seamless real-time predictions.
 
-  **Contextual Statement**:
   This artifact showcases my ability to implement a **full-stack solution** for a complex problem. By using TensorFlow for the model and React for the frontend, I strengthened my expertise
   in **end-to-end development** and contributed to making healthcare tools more accessible and user-friendly.
 
@@ -68,7 +66,6 @@ Below are links to my featured projects, each demonstrating different skills and
   insights into market trends, consumer preferences, and the determinants of vehicle pricing, offering valuable tools for sellers, buyers, and
   dealerships alike.
 
-  **Contextual Statement**:
   This artifact highlights my ability to use **data-driven approaches** to solve practical problems. Developing the predictive model improved my skills in **data preprocessing**, **feature
   engineering**, and applying machine learning algorithms such as **Linear Regression** and **Random Forest**. The insights gained from this project demonstrate my analytical skills and
   understanding of market dynamics.
