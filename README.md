@@ -8,7 +8,7 @@ Feel free to explore my projects below, and don’t hesitate to reach out for co
 
 ## Introduction Video
 
-[!Watch the Video](https://youtu.be/rz5w5Ku_GsM)
+[Watch the Video](https://youtu.be/rz5w5Ku_GsM)
 
 Click the link above to watch my 1-minute introduction video on YouTube!
 
